@@ -1,1 +1,2 @@
-const initialName = 1;
+let initialName = 1;
+const addedLine = '2';
